@@ -1,6 +1,6 @@
 ---
 title: 'Course Project: Shiny Application and Reproducible Pitch'
-author: "Xavier Fontané"
+author: "Xavier FontanÃ©"
 date: "4 de abril de 2017"
 output: ioslides_presentation
 ---
@@ -21,6 +21,7 @@ Instructions:
 4. Share your server.R and ui.R code on github
 
 ## How to use the application
+
 
 Using the data provided by Galton Families dataset, we fit a linear model to predict a child's height based on the gender and parent's average height.
 

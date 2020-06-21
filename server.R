@@ -10,6 +10,7 @@ gf <- gf %>% mutate(father=father*2.54,
                     mother=mother*2.54,
                     childHeight=childHeight*2.54)
 
+
 # linear model
 model1 <- lm(childHeight ~ father + mother + gender, data=gf)
 

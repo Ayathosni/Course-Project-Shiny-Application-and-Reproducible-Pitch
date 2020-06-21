@@ -22,6 +22,7 @@ shinyUI(fluidPage(
                                label = "Child's gender: ",
                                choices = c("Female"="female", "Male"="male"),
                                inline = TRUE)
+                  
             ),
             
             mainPanel(
